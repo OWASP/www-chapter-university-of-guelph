@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP University of Guelph
-tags: example-tag
+tags: OWASP University-of-Guelph Cybersecurity Canada Web-Application-Security Student-Chapter MCTI MCLC Rudraksh Gupta Ali Dehghantanha
 region: North America
 country: Canada
-meetup-group:
+meetup-group: 
 
 ---
 
@@ -46,8 +46,6 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Cha
 
 ## Connect With Us!
 Follow and Support us On:
-
-## Connect with me
 
 - [Instagram](https://www.instagram.com/yourusername)
 - [Github](https://github.com/yourusername)
