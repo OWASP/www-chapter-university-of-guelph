@@ -26,6 +26,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </ul>
 
 </div> -->
+![Banner Image](/assets/images/Untitled design.png)
 
 ## Welcome
 The OWASP University of Guelph chapter is a newly established student-driven initiative aimed at advancing cybersecurity education and promoting a culture of security awareness within the university. As part of the global Open Web Application Security Project (OWASP), the chapter will provide students with opportunities for hands-on learning, collaboration, and networking in the field of application security. Through workshops, seminars, and projects aligned with OWASP's mission, the chapter will empower students to make informed security decisions and contribute to the development of secure software. This initiative highlights the University of Guelph's commitment to fostering cybersecurity skills and supporting the next generation of security professionals.
