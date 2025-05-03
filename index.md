@@ -43,3 +43,12 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 {% include chapter_events.html group=page.meetup-group %}
 We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Channels … :)
 
+## Connect With Us!
+Follow and Support us On:
+- [Instagram](https://www.instagram.com/yourusername)
+- [Github](https://github.com/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [YouTube](https://www.youtube.com/c/yourusername)
+- [Facebook](https://www.facebook.com/yourusername)
+
