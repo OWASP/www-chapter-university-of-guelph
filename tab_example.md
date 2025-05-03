@@ -1,6 +1,6 @@
 ---
 title: Team
-layout:  null
+layout:  
 tab: true
 order: 1
 tags: Team
@@ -8,4 +8,10 @@ tags: Team
 
 ## Team
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+| Role              | Responsibilities                                             | Person's Name     |
+|-------------------|--------------------------------------------------------------|-------------------|
+| Chapter Leader    | Oversees the overall activities of the chapter.              | John Doe          |
+| Event Organizer   | Plans and coordinates meetups and events for the chapter.    | Jane Smith        |
+| Social Media Lead | Manages chapter’s social media presence and promotions.      | Alice Johnson     |
+| Technical Lead    | Leads technical workshops and provides security guidance.   | Bob Brown         |
+| Secretary         | Manages chapter communication and records meeting minutes.  | Charlie Davis     |
