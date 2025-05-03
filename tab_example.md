@@ -1,5 +1,5 @@
 ---
-title: Team
+title: example
 layout: tags
 tab: true
 order: 2
