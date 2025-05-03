@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<!-- <div style='color:red;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -25,7 +25,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
 </ul>
 
-</div>
+</div> -->
 
 ## Welcome
 The OWASP University of Guelph chapter is a newly established student-driven initiative aimed at advancing cybersecurity education and promoting a culture of security awareness within the university. As part of the global Open Web Application Security Project (OWASP), the chapter will provide students with opportunities for hands-on learning, collaboration, and networking in the field of application security. Through workshops, seminars, and projects aligned with OWASP's mission, the chapter will empower students to make informed security decisions and contribute to the development of secure software. This initiative highlights the University of Guelph's commitment to fostering cybersecurity skills and supporting the next generation of security professionals.
@@ -45,10 +45,12 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Cha
 
 ## Connect With Us!
 Follow and Support us On:
-- [Instagram](https://www.instagram.com/yourusername)
-- [Github](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [YouTube](https://www.youtube.com/c/yourusername)
-- [Facebook](https://www.facebook.com/yourusername)
+## Connect with me
+
+- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/yourusername)
+- [![Github](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/yourusername)
+- [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/yourusername)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/yourusername)
+- [![YouTube](https://upload.wikimedia.org/wikipedia/commons/a/a3/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/c/yourusername)
+- [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/yourusername)
 
