@@ -45,12 +45,14 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Cha
 
 ## Connect With Us!
 Follow and Support us On:
+
 ## Connect with me
 
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/yourusername)
-- [![Github](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/yourusername)
-- [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/yourusername)
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/yourusername)
-- [![YouTube](https://upload.wikimedia.org/wikipedia/commons/a/a3/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/c/yourusername)
-- [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/yourusername)
+- [Instagram](https://www.instagram.com/yourusername)
+- [Github](https://github.com/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [YouTube](https://www.youtube.com/c/yourusername)
+- [Facebook](https://www.facebook.com/yourusername)
+
 
