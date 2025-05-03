@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: default
+layout: tags
 tab: true
 order: 2
 tags: Team
