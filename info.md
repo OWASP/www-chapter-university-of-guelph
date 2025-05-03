@@ -1,6 +1,5 @@
 ### University of Guelph Information
-* Provide Group Information
-
+* [University of Guelph](https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence)
 ### Social Links
 * [Meetup](#)
 * [Instagram](https://www.instagram.com/yourusername)
