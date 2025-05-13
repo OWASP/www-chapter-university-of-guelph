@@ -10,7 +10,7 @@ meetup-group:
 ---
 
 
-![Banner Image](/assets/images/Untitled design.png)
+![Banner Image](/assets/images/header_poster.png)
 
 ## Welcome
 The OWASP University of Guelph chapter is a newly established student-driven initiative aimed at advancing cybersecurity education and promoting a culture of security awareness within the university. As part of the global Open Web Application Security Project (OWASP), the chapter will provide students with opportunities for hands-on learning, collaboration, and networking in the field of application security. Through workshops, seminars, and projects aligned with OWASP's mission, the chapter will empower students to make informed security decisions and contribute to the development of secure software. This initiative highlights the University of Guelph's commitment to fostering cybersecurity skills and supporting the next generation of security professionals.
@@ -31,11 +31,7 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Cha
 ## Connect With Us!
 Follow and Support us On:
 
-- [Instagram](https://www.instagram.com/yourusername)
-- [Github](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [YouTube](https://www.youtube.com/c/yourusername)
-- [Facebook](https://www.facebook.com/yourusername)
-
+- [Instagram](https://www.instagram.com/owasp_uog)
+- [Github](https://github.com/OWASP/www-chapter-university-of-guelph)
+- [LinkedIn](https://www.linkedin.com/company/owasp-student-chapter-uofg)
 
