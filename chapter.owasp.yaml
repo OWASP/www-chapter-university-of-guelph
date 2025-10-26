@@ -1,0 +1,37 @@
+leaders:
+  - name: Ali Dehghantanha
+    email: ali.dehghantanha@owasp.org
+  - name: Rudraksh Gupta
+    email: rudraksh.gupta@owasp.org
+    github: mohakrudrakshh
+  - name: Varij Saini
+    email: varij.saini@owasp.org
+  - name: Neel Soni
+    email: neel.soni@owasp.org
+    github: neelsoni26
+location:
+  country: Canada
+  country_code: CA
+  region: Ontario
+  city: Guelph
+  latitude: 43.5460516
+  longitude: -80.2493276
+name: OWASP University of Guelph
+repositories:
+  - name: www-chapter-university-of-guelph
+    url: https://github.com/OWASP/www-chapter-university-of-guelph
+    description: OWASP Foundation web repository
+tags:
+  - OWASP
+  - University-of-Guelph
+  - Cybersecurity
+  - Canada
+  - Web-Application-Security
+  - Student-Chapter
+  - MCTI
+  - MCLC
+  - Rudraksh
+  - Gupta
+  - Ali
+  - Dehghantanha
+website: https://owasp.org/www-chapter-university-of-guelph
